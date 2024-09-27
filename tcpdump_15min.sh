@@ -5,3 +5,4 @@ file="/home/kirino/record/tcp/"
 
 # start
 tcpdump >> "${file}${date}.txt"
+# tcpdump -w "${file}${date}.log"
